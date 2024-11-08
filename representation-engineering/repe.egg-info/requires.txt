@@ -1,3 +1,0 @@
-accelerate
-scikit-learn
-transformers
